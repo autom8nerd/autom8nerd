@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm a freshman in college with a strong passion fo
 - 📚 **Current Status**: Freshman in NIT Hamirpur majoring in Computer Science and Enigneering.
 - 🚀 **Goals**: To become proficient in software development and contribute to innovative projects.
 - 💡 **What I’m Learning**: I’m currently focusing on learning programming languages, starting with C.
-- 🔭 **Currently Exploring**: AI & ML field, learning the basics of AI, and looking forward to explore the field of AI.
+- 🔭 **Currently Exploring**: AI & ML, Cybersecurity
 - 🛠️ **Skills & Technologies**
 I'm just starting out, but here’s what I’m currently learning and interested in:
-- Languages: C, Python, Java
-- Frameworks & Tools: Git, HTML, CSS
-- Databases: Mongo DB
+- Languages: C, Python, C++
+- Databases: MySQL
+- Operating System: Windows, Arch, Ubuntu
 ## 🌱 Projects
 I’m in the early stages of my development journey, so I will soon be having some projects for showcasing.
 

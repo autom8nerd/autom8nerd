@@ -41,10 +41,7 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autom8nerd&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=autom8nerd)](https://git.io/streak-stats)
 
 <hr>
 

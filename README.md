@@ -26,9 +26,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=autom8nerd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autom8nerd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
 
 </div>
 
@@ -36,14 +36,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=autom8nerd&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autom8nerd&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
 </div>
 
 <hr>

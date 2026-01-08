@@ -22,8 +22,6 @@
 
 </div>
 
-<hr>
-
 <div align="center">
 
 
@@ -35,8 +33,6 @@
 </div>
 
 <br>
-
-<hr>
 
 <div align="center">
   <sub><i>"I prefer my code compiled and my dotfiles organized."</i></sub>

@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=I+use+Arch+Linux,+btw;Neovim+%26+PyCharm+User;C+%2F+C%2B%2B+%2F+Python+Developer;Always+Coding" alt="Typing SVG" />
-  </a>
+  
 
   <p>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
